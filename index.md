@@ -22,7 +22,13 @@
   <p>    This is a visualization of head-direction neurons. The neurons align in a circle biologically. 
      They will change activity when head faces different directions, and 
      tend to have higher activity along a specific orientation. </p>
-  
+     
+  <br>
+  <hr width="50%" size="3" />
+  <h3>Videos</h3>
+  <video controls>
+     <source src="" type="video/mp4">
+  </video>
   
 </body>
 </html>
