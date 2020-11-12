@@ -58,7 +58,7 @@
       <div><video width="300" height="200" controls>
           <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.3.%20two-finger%20contour.mp4" type="video/mp4">
       </video></div>
-      <div><span> <br> Use two fingers in the axis region to determine the first-deviation contour of the Gaussian projection, and 
+      <div><span> Use two fingers in the axis region to determine the first-deviation contour of the Gaussian projection, and 
         drag around to reshape the ellipse. It determines the two std-deviations of Gaussian, and the covariance between 
         two dimensions. You could figure out how covariance values between -1 and 1 correspond to contour shapes. </span>
       </div>
