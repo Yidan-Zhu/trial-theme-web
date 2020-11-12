@@ -27,8 +27,8 @@
   <hr width="50%" size="3" />
   <h3>Videos</h3>
   <h5>1D Gaussian on touch-screen</h5>
-  <video controls>
-     <source src="https://github.com/Yidan-Zhu/trial-theme-web/blob/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
+  <video width="320" height="240" controls>
+     <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
   </video>
   
 </body>
