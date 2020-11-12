@@ -1,11 +1,29 @@
 # HTML code
 
-1D Gaussian:   <a href="https://yidan-zhu.github.io/upload-html/"> 1D Gaussian </a>
-Head-direction Neurons:   <a href="https://yidan-zhu.github.io/html_upload_2/"> Head-direction Neurons </a>
+-1D Gaussian:   
+  <a href="https://yidan-zhu.github.io/upload-html/"> 1D Gaussian </a>
+
+-Head-direction Neurons:   
+  <a href="https://yidan-zhu.github.io/html_upload_2/"> Head-direction Neurons </a>
 
 
 # Jupyter notebook
+-1D Gaussian: 
 
+  %%HTML
+  <h3>1D Gaussian</h3>
+  <p>add description text here! - or remove this tag. </p>
+  <br>
+  <iframe src='https://yidan-zhu.github.io/upload-html/' height="300" width="500" />
+
+
+-Head-direction Neurons: 
+
+  %%HTML
+  <h3>Head-direction Neurons</h3>
+  <p>add description text here! - or remove this tag. </p>
+  <br>
+  <iframe src='https://yidan-zhu.github.io/html_upload_2/' height="660" width="980" />
 
 
 # Powerpoint slide
