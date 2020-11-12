@@ -45,7 +45,7 @@
 
   <br>
   <br>
-  <h4>Multivariate Gaussian</h4>
+  <h4>Multivariate Gaussian (we are still working on it)</h4>
   <div class="horizontal_boxes" style="display:flex">
       <div><video width="300" height="200" controls>
           <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.1.%20rotation.mp4" type="video/mp4">
