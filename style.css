@@ -1,4 +1,10 @@
 .horizontal_boxes span {
   display:inline-block;
   width:80px;  
+  float:right;
+}
+
+.horizontal_boxes video {
+  display:inline-block;
+  float:left;
 }
