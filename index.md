@@ -19,7 +19,8 @@
   <a href="https://yidan-zhu.github.io/html_upload_2/"> Head-direction Neurons </a>
   <br>
   <br>
-  <p>    This is a visualization of head-direction neurons. The neurons will change activity when head faces different directions, and 
+  <p>    This is a visualization of head-direction neurons. The neurons align in a circle biologically. 
+     They will change activity when head faces different directions, and 
      tend to have higher activity along a specific orientation. </p>
   
   
