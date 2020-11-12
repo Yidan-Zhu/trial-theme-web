@@ -26,6 +26,7 @@
   <br>
   <hr width="50%" size="3" />
   <h3>Videos</h3>
+  <h5>1D Gaussian on touch-screen</h5>
   <video controls>
      <source src="" type="video/mp4">
   </video>
