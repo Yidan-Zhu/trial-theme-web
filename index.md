@@ -99,7 +99,7 @@
   <p>For Jupyter notebook, from "# Jupyter Notebook" copy the ...</p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
   <p>For installations on your android mobile and tablet devices, copy the visualization-apk from directory "..." </p>
-  <p>For an *exe running on Windows, go to directory "..."; choose the widget file and click "Code" - "Download ZIP" on the repository menu bar. </p>  
+  <p>For an *exe running on Windows, go to directory "..."; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
   <p>For installations on your iOS devices, copy the .... from directory ".." and ".." </p>
 
 
