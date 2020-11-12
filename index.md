@@ -56,7 +56,7 @@
           <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.3.%20two-finger%20contour.mp4" type="video/mp4">
       </video></div>
       <div><span> <br> Use two fingers in the axis region to determine the first-deviation contour of the Gaussian projection, and 
-        drag around to shape the contour's shape. It determines the two std-deviations of Gaussian, and the covariance between the 
+        drag around to reshape the contour. It determines the two std-deviations of Gaussian, and the covariance between the 
         two dimensions. Students could figure out how covariance values between -1 and 1 correspond to specific shapes of the contour 
         of Gaussian. </span>
       </div>
