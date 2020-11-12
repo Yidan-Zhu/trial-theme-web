@@ -26,6 +26,9 @@
      They will change activity when head faces different directions, and 
      tend to have higher activity along a specific orientation. </p>
      
+     
+  <br>
+  <br>
  <!-- Video -->    
      
   <br>
@@ -57,7 +60,7 @@
       </video></div>
       <div><span> <br> Use two fingers in the axis region to determine the first-deviation contour of the Gaussian projection, and 
         drag around to reshape the ellipse. It determines the two std-deviations of Gaussian, and the covariance between 
-        two dimensions. You could figure out how covariance values between -1 and 1 correspond to specific contour shapes. </span>
+        two dimensions. You could figure out how covariance values between -1 and 1 correspond to contour shapes. </span>
       </div>
   </div> 
 
