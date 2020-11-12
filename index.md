@@ -94,12 +94,12 @@
   <h3>Ways to embed to your teaching materials</h3>
   <p>1. Click the "View on GitHub" button on the menu bar, which navigates to the open source repository. </p>
   <p>2. Find and click-open doc "Embed widgets by html address". </p>
-  <p>3. -- ↓ ↓ -- </p>
+  <p> -- ↓ ↓ -- </p>
   <p>For webpage embed, from "# HTML code" copy the html code for an interactive visualization.</p>
   <p>For Jupyter notebook, from "# Jupyter Notebook" copy the prototype code-chunk for an interactive visualization. And modify the content 
      according to your requirement. </p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
-  <p>4. Extras.</p>
+  <p>3. Extras.</p>
   <p>For installations on your android mobile and tablet devices, go to directory "android apk download"; click-open the visualization-apk; and 
    use "Download" button on the repository menu bar. </p>
   <p>For an *exe running on Windows, go to directory "Windows exe download"; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
