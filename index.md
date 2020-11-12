@@ -1,4 +1,5 @@
 <html lang="en">
+<link rel="stylesheet" type="text/css" href="style.css">
 <body>
   <img src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/visual%20learners.jpg">
   <br>
@@ -27,7 +28,8 @@
   <hr width="50%" size="3" />
   <h3>Videos</h3>
   <h4>1D Gaussian on touch-screen</h4>
-  <div>
+  
+  <div class="horizontal_boxes">
   <div><video width="300" height="380" controls>
      <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
   </video></div>
