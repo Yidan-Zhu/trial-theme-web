@@ -8,6 +8,12 @@
   <a href="https://yidan-zhu.github.io/upload-html/"> 1D Gaussian </a>
   <br>
   <br>
+  <hr width="50%" size="3" />
+  <p>.....</p>
+  
+  
+  <br>
+  <br>
   <h3>Unity Visualizations</h3>
   <a href="https://yidan-zhu.github.io/html_upload_2/"> Head-direction Neurons </a>
   
