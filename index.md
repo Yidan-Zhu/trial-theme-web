@@ -14,7 +14,6 @@
   
   
   <br>
-  <br>
   <hr width="50%" size="3" />
   <h3>Unity Visualizations</h3>
   <a href="https://yidan-zhu.github.io/html_upload_2/"> Head-direction Neurons </a>
