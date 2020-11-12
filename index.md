@@ -99,7 +99,8 @@
   <p>For Jupyter notebook, from "# Jupyter Notebook" copy the ...</p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
   <p>4. Extras.</p>
-  <p>For installations on your android mobile and tablet devices, copy the visualization-apk from directory "android apk download" </p>
+  <p>For installations on your android mobile and tablet devices, go to directory "android apk download"; click-open the visualization-apk; and 
+   use "Download" button on the repository menu bar. </p>
   <p>For an *exe running on Windows, go to directory "Windows exe download"; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
   <p>For installations on your iOS devices, find the installations from directory "iOS installation download (Godot)" or "iOS installation download (Unity)";
      and click "Code" - "Download ZIP" on the repository menu bar. </p>
