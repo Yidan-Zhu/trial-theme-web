@@ -98,6 +98,8 @@
   <p>For webpage embed, from "# HTML code" copy the html code of an interactive visualization.</p>
   <p>For Jupyter notebook, from "# Jupyter Notebook" copy the ...</p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
+  <p>For installations on your android mobile and tablet devices, copy the visualization-apk from directory "..." </p>
+  <p>For installations on your iOS devices, copy the .... from directory ".." and ".." </p>
 
 
 </body>
