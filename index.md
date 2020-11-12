@@ -96,7 +96,8 @@
   <p>2. Find and click-open doc "Embed widgets by html address". </p>
   <p>3. -- ↓ ↓ -- </p>
   <p>For webpage embed, from "# HTML code" copy the html code for an interactive visualization.</p>
-  <p>For Jupyter notebook, from "# Jupyter Notebook" copy the prototype code-chunk for an interactive visualization. And modify the content by your need. </p>
+  <p>For Jupyter notebook, from "# Jupyter Notebook" copy the prototype code-chunk for an interactive visualization. And modify the content 
+     according to your requirement. </p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
   <p>4. Extras.</p>
   <p>For installations on your android mobile and tablet devices, go to directory "android apk download"; click-open the visualization-apk; and 
