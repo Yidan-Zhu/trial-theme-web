@@ -98,9 +98,9 @@
   <p>For webpage embed, from "# HTML code" copy the html code of an interactive visualization.</p>
   <p>For Jupyter notebook, from "# Jupyter Notebook" copy the ...</p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
-  <p>For installations on your android mobile and tablet devices, copy the visualization-apk from directory "..." </p>
-  <p>For an *exe running on Windows, go to directory "..."; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
-  <p>For installations on your iOS devices, copy the .... from directory ".." and ".." </p>
+  <p>For installations on your android mobile and tablet devices, copy the visualization-apk from directory "android apk download" </p>
+  <p>For an *exe running on Windows, go to directory "Windows exe download"; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
+  <p>For installations on your iOS devices, copy the installations from directory "iOS installation download (Godot)" and "iOS installation download (Unity)" </p>
 
 
 </body>
