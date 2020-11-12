@@ -42,6 +42,37 @@
 
   <br>
   <br>
+  <h4>Multivariate Gaussian</h4>
+  <div class="horizontal_boxes" style="display:flex">
+      <div><video width="300" height="200" controls>
+          <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.1.%20rotation.mp4" type="video/mp4">
+      </video></div>
+      <div><span> <br> Use two fingers to draw a circle on the "rot" region of the panel, which rotates the camera.</span>
+      </div>
+  </div>  
+
+  <div class="horizontal_boxes" style="display:flex">
+      <div><video width="300" height="200" controls>
+          <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.3.%20two-finger%20contour.mp4" type="video/mp4">
+      </video></div>
+      <div><span> <br> Use two fingers in the axis region to determine the first-deviation contour of the Gaussian projection, and 
+        drag around to shape the contour's shape. It determines the two std-deviations of Gaussian, and the covariance between the 
+        two dimensions. Students could figure out how covariance values between -1 and 1 correspond to specific shapes of the contour 
+        of Gaussian. </span>
+      </div>
+  </div> 
+
+  <div class="horizontal_boxes" style="display:flex">
+      <div><video width="300" height="200" controls>
+          <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/3.2.%20mean-change.mp4" type="video/mp4">
+      </video></div>
+      <div><span> <br> Use one finger to drag the center of the peak of Gaussian around the axis region, which determines 
+         two mean values of Gaussian. </span>
+      </div>
+  </div> 
+
+  <br>
+  <br>
   <h4>Head-Direction Neurons</h4>
   <div class="horizontal_boxes" style="display:flex">
       <div><video width="300" height="380" controls>
