@@ -36,7 +36,7 @@
       <div><video width="300" height="200" controls>
           <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/1D-Gaussian.mp4" type="video/mp4">
       </video></div>
-      <div><span> <br> This is a demonstration video. </span>
+      <div><span> <br> This is a demonstration video on 1d-Gaussian. </span>
       </div>
   </div>
 
