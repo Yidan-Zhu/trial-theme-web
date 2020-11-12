@@ -100,6 +100,7 @@
      according to your requirement. </p>
   <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
   <p>3. Extras.</p>
+  <p> -- ↓ ↓ -- </p>
   <p>For installations on your android mobile and tablet devices, go to directory "android apk download"; click-open the visualization-apk; and 
    use "Download" button on the repository menu bar. </p>
   <p>For an *exe running on Windows, go to directory "Windows exe download"; choose the widget you need; and click "Code" - "Download ZIP" on the repository menu bar. </p>  
