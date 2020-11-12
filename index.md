@@ -9,7 +9,7 @@
   <a href="https://yidan-zhu.github.io/upload-html/"> 1D Gaussian </a>
   <br>
   <p>This is a 1D Gaussian visualization, with three types of on-screen input methods - sliders, joystick, and finger-touch.
-     If you put a finger in the axis region, the Gaussian peak will go to that event-position and "mean"/"std deviation" change automatically.</p>
+     If you put a finger in the axis region, the Gaussian peak will go to that event-position and "mean"&"std deviation" change automatically.</p>
   
   
   <br>
