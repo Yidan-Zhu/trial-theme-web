@@ -33,7 +33,7 @@
   <div><video width="300" height="380" controls>
      <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
   </video></div>
-  <div><span>This is a video. update 7.</span></div>
+  <div><span>This is a video. update 8.</span></div>
   </div>
   
 </body>
