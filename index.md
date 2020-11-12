@@ -1,5 +1,7 @@
 <html lang="en">
 <body>
+  <img src="https://github.com/Yidan-Zhu/trial-theme-web/blob/gh-pages/visual%20learners.jpg">
+  
   <h3>Godot Visualizations</h3>
   <a href="https://yidan-zhu.github.io/upload-html/"> 1D Gaussian </a>
   <br>
