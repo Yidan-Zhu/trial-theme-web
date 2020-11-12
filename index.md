@@ -29,11 +29,11 @@
   <h3>Videos</h3>
   <h4>1D Gaussian on touch-screen</h4>
   
-  <div class="horizontal_boxes" style="display:flex>
+  <div class="horizontal_boxes" style="display:flex">
   <div><video width="300" height="380" controls>
      <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
   </video></div>
-  <div><span>This is a video. update 4.</span></div>
+  <div><span>This is a video. update 5.</span></div>
   </div>
   
 </body>
