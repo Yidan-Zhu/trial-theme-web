@@ -86,6 +86,18 @@
            show the neuron index and its activity. </span>
       </div>
   </div>
-  
+
+  <br>
+  <br>
+  <!-- Ways to embed -->
+  <hr width="50%" size="3" />
+  <h3>Ways to embed to your teaching materials</h3>
+  <p>1. Click the "View on GitHub" button on the menu bar, which navigates to the open source repository. </p>
+  <p>2. Find and click-open doc "Embed widgets by html address". </p>
+  <p>For webpage embed, from "# HTML code" copy the html code of an interactive visualization.</p>
+  <p>For Jupyter notebook, from "# Jupyter Notebook" copy the ...</p>
+  <p>For powerpoint slide, from "# Powerpoint slide" copy the ...</p>
+
+
 </body>
 </html>
