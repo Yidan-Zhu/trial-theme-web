@@ -28,17 +28,25 @@
   <hr width="50%" size="3" />
   <h3>Videos</h3>
   <h4>1D Gaussian on touch-screen</h4>
+  <div class="horizontal_boxes" style="display:flex">
+      <div><video width="300" height="380" controls>
+          <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/1D%20Gaussian.mp4" type="video/mp4">
+      </video></div>
+      <div><span> <br> This is a demonstration video. </span>
+      </div>
+  </div>
   
   <br>
   <br>
   <h4>Head-Direction Neurons</h4>
   <div class="horizontal_boxes" style="display:flex">
-  <div><video width="300" height="380" controls>
-     <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
-  </video></div>
-  <div><span> <br> This is a demonstration video. The buttons on the right corner are for camera rotation. 
-    The slider on the bottom is the head rotation angle. When you put the cursor on a cylinder, a window will 
-    show the neuron index and its activity. </span></div>
+      <div><video width="300" height="380" controls>
+          <source src="https://raw.githubusercontent.com/Yidan-Zhu/trial-theme-web/gh-pages/Head-direction%20neurons.mp4" type="video/mp4">
+      </video></div>
+      <div><span> <br> This is a demonstration video. The buttons on the right corner are for camera rotation. 
+           The slider on the bottom is the head rotation angle. When you put the cursor on a cylinder, a window will 
+           show the neuron index and its activity. </span>
+      </div>
   </div>
   
 </body>
