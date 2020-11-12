@@ -1,5 +1,6 @@
 .horizontal_boxes span {
   display: inline-block;
+  width:100px;
   margin-left: 50px;
 }
 
