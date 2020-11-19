@@ -116,12 +116,12 @@
   <ul>
       <li>Eden: Technician and Developer </li>
       <li>Xaq Pitkow: Leader of the project and brings great visualization ideas </li>
-      <li>Ella Batty: Contributor to the development ideas and techniques </li>
+      <li>Ella Batty: Contributor to the web development ideas and techniques </li>
   </ul> 
   <br>
   <br>
   <p>We welcome collaboration, contributions to our open-source interactive visualization development! Please let us know if you are interested. </p>
-  <p>We would like to have people contribute to the following sections, ... </p>
+  <p>We would like to have people contribute to more visualizations, techniques, web development, etc. </p>
 
 </body>
 </html>
