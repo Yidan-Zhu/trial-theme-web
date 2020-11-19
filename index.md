@@ -108,5 +108,20 @@
      and click "Code" - "Download ZIP" on the repository menu bar. </p>
 
 
+  <br>
+  <br>
+  <!-- Contributors -->
+  <hr width="50%" size="3" />
+  <h3>Contributors</h3>
+  <ul>
+      <li>Eden: ....  </li>
+      <li>Xaq Pitkow: Leader of the project and brings fantastic visualization ideas to the development </li>
+      <li>Ella Batty: Contributes to the development ideas and techniques </li>
+  </ul> 
+  <br>
+  <br>
+  <p>We welcome collaboration, contributions to our open-source interactive visualization development! Please let us know if you are interested. </p>
+  <p>We would like to have people contribute to the following sections, ... </p>
+
 </body>
 </html>
