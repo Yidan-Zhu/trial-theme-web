@@ -114,9 +114,9 @@
   <hr width="50%" size="3" />
   <h3>Contributors</h3>
   <ul>
-      <li>Eden: ....  </li>
-      <li>Xaq Pitkow: Leader of the project and brings fantastic visualization ideas to the development </li>
-      <li>Ella Batty: Contributes to the development ideas and techniques </li>
+      <li>Eden: Technician and Developer </li>
+      <li>Xaq Pitkow: Leader of the project and brings great visualization ideas </li>
+      <li>Ella Batty: Contributor to the development ideas and techniques </li>
   </ul> 
   <br>
   <br>
