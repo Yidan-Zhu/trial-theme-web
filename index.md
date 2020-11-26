@@ -121,7 +121,8 @@
   <br>
   <br>
   <p>We welcome collaboration, contributions to our open-source interactive visualization development! Please let us know if you are interested. </p>
-  <p>We would like to have people contribute to more visualizations, techniques, web development, etc. </p>
+  <p>We would like to have people contribute to more visualizations, techniques, web development, etc. 
+     We also don't want to restrict the platforms and welcome visualization contributions from Python, Mathematica Notebook, and other software.</p>
 
 </body>
 </html>
