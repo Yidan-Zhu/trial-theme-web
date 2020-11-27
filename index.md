@@ -120,6 +120,7 @@
       <li>Alex Kunin: Contributor to mathematical discussions in the design/technique and visualization development ideas</li>
       <li>Lokesh Boominathan: Contributor to visualization technical design and other techniques</li>
       <li>Zhe Li: Contributor to visualization idea extension</li>
+      <li>Yicheng Fei: Contributor to the idea of moving a mathematica widget to a webpage</li>
   </ul> 
   <br>
   <br>
