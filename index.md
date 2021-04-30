@@ -120,7 +120,7 @@
       <li>Alex Kunin: Contributor to mathematical discussions in the design/technique and visualization development ideas</li>
       <li>Lokesh Boominathan: Contributor to visualization's technical design</li>
       <li>Zhe Li: Contributor to visualization idea extension</li>
-      <li>Lily: Contributor to a research topic that we visualize, and discussion on the math</li>
+      <li>Lily: Contributor to a research topic that we visualize and discussion on the complicated math</li>
   </ul> 
   <br>
   <br>
